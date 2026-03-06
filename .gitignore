@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# IDE & Editor Settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+.emacs.d/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.prod
+.env.test
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+blog.db
+
+# Media & Static Files
+media/
+uploads/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+.directory
+
+# Testing & Coverage
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Backup Files
+*.bak
+*.tmp
+*.backup
+
+# Lock Files (optional - only exclude if using pip)
+# poetry.lock
+# Pipfile.lock
+# Note: Keep uv.lock if using uv package manager
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Node Modules (if using frontend build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Miscellaneous
+.ipynb_checkpoints/
+snippets.txt

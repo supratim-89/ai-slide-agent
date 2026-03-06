@@ -1,0 +1,75 @@
+{
+  "slides": [
+    {
+      "type": "title",
+      "title": "Global EV Adoption Trends",
+      "subtitle": "A Look at Growth and Future Outlook"
+    },
+    {
+      "type": "bullet",
+      "title": "Introduction to Electric Vehicles (EVs)",
+      "points": [
+        "What are EVs?",
+        "Why are EVs important?",
+        "Brief overview of global adoption"
+      ]
+    },
+    {
+      "type": "chart",
+      "title": "Global EV Sales Growth",
+      "chart_type": "line",
+      "data": {
+        "2020": 3,
+        "2021": 6,
+        "2022": 10
+      },
+      "x_axis_label": "Year",
+      "y_axis_label": "Million Units Sold (Illustrative)"
+    },
+    {
+      "type": "bullet",
+      "title": "Key Drivers of EV Adoption",
+      "points": [
+        "Government incentives and policies",
+        "Decreasing battery costs",
+        "Expanding charging infrastructure",
+        "Growing environmental awareness",
+        "Improved vehicle performance and range"
+      ]
+    },
+    {
+      "type": "bullet",
+      "title": "Challenges to Widespread Adoption",
+      "points": [
+        "High upfront cost",
+        "Charging time and availability",
+        "Range anxiety",
+        "Grid capacity concerns",
+        "Battery production and disposal"
+      ]
+    },
+    {
+      "type": "bullet",
+      "title": "Regional Adoption Highlights",
+      "points": [
+        "Leading markets (e.g., China, Europe, North America)",
+        "Emerging markets and their potential",
+        "Key policy differences across regions"
+      ]
+    },
+    {
+      "type": "bullet",
+      "title": "Future Outlook and Projections",
+      "points": [
+        "Projected growth rates",
+        "Technological advancements (e.g., solid-state batteries)",
+        "Impact on the automotive industry",
+        "Role in decarbonization efforts"
+      ]
+    },
+    {
+      "type": "title",
+      "title": "Thank You & Q&A"
+    }
+  ]
+}
